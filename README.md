@@ -7,5 +7,5 @@ You should be able to clone this repo, install the dependencies, run tests, buil
 ```
 npm install
 npm test
-webpack -w
+webpack
 ```
